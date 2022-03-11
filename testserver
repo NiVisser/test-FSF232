@@ -1,0 +1,423 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omrop Fryslan NL" tvg-logo="https://picon-13398.kxcdn.com/omropfryslan.jpg group-title=" group-title="Nederland",Omrop Fryslan NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11247.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 1 Extra NL" tvg-logo="https://picon-13398.kxcdn.com/npo1extranl.jpg group-title=" group-title="Nederland",NPO 1 Extra NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/23968.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 1 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/npo1hd.jpg group-title=" group-title="Nederland",NPO 1 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12525.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 1 HD NL" tvg-logo="https://picon-13398.kxcdn.com/npo1hd.jpg group-title=" group-title="Nederland",NPO 1 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4142.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 2 Extra NL" tvg-logo="https://picon-13398.kxcdn.com/npo2extranl.jpg group-title=" group-title="Nederland",NPO 2 Extra NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11215.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 2 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/npo2hd.jpg group-title=" group-title="Nederland",NPO 2 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12526.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 2 HD NL" tvg-logo="https://picon-13398.kxcdn.com/npo2hd.jpg group-title=" group-title="Nederland",NPO 2 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4143.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 3 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/npo3hd.jpg group-title=" group-title="Nederland",NPO 3 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12527.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 3 HD NL" tvg-logo="https://picon-13398.kxcdn.com/npo3hd.jpg group-title=" group-title="Nederland",NPO 3 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4144.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 4 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl4hd.jpg group-title=" group-title="Nederland",RTL 4 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12537.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 4 HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl4.jpg group-title=" group-title="Nederland",RTL 4 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4149.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 5 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl5hd.jpg group-title=" group-title="Nederland",RTL 5 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12536.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 5 HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl5.jpg group-title=" group-title="Nederland",RTL 5 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS6 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/sbs6hd.jpg group-title=" group-title="Nederland",SBS6 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12533.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS6 HD NL" tvg-logo="https://picon-13398.kxcdn.com/sbs6hd.jpg group-title=" group-title="Nederland",SBS6 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4147.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 7 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl7hd.jpg group-title=" group-title="Nederland",RTL 7 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12535.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 7 HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl7.jpg group-title=" group-title="Nederland",RTL 7 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4151.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 8 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl8hd.jpg group-title=" group-title="Nederland",RTL 8 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12534.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 8 HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtl8.jpg group-title=" group-title="Nederland",RTL 8 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4152.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Veronica Disney XD FHD NL" tvg-logo="https://picon-13398.kxcdn.com/veronicadisneyxdhd.jpg group-title=" group-title="Nederland",Veronica Disney XD FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12524.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Veronica Disney XD NL" tvg-logo="https://picon-13398.kxcdn.com/veronica_disneyxd.jpg group-title=" group-title="Nederland",Veronica Disney XD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16296.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS9 HD NL" tvg-logo="https://picon-13398.kxcdn.com/sbs9hd.jpg group-title=" group-title="Nederland",SBS9 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17236.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS9 NL" tvg-logo="https://picon-13398.kxcdn.com/sbs9.jpg group-title=" group-title="Nederland",SBS9 NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4148.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Net5 HD NL" tvg-logo="https://picon-13398.kxcdn.com/net5.jpg group-title=" group-title="Nederland",Net5 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4145.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Net5 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/net5.jpg group-title=" group-title="Nederland",Net5 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12528.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN HD NL" tvg-logo="https://picon-13398.kxcdn.com/espn.jpg group-title=" group-title="Nederland",ESPN HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/15843.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN FHD NL" tvg-logo="https://picon-13398.kxcdn.com/espn.jpg group-title=" group-title="Nederland",ESPN FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4169.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg group-title=" group-title="Nederland",ESPN 2 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12530.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 HD NL" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg group-title=" group-title="Nederland",ESPN 2 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4170.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/espn3.jpg group-title=" group-title="Nederland",ESPN 3 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17218.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 HD NL" tvg-logo="https://picon-13398.kxcdn.com/espn3.jpg group-title=" group-title="Nederland",ESPN 3 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4171.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4 FHD NL" tvg-logo="ftp://mpicon@ftp.keycdn.com/espn4nl.jpg group-title=" group-title="Nederland",ESPN 4 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17219.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4 HD NL" tvg-logo="ftp://mpicon@ftp.keycdn.com/espn4nl.jpg group-title=" group-title="Nederland",ESPN 4 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4172.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport FHD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportnl.jpg group-title=" group-title="Nederland",Ziggo Sport FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/29050.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal FHD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportvoetbal.jpg group-title=" group-title="Nederland",Ziggo Sport Voetbal FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/15803.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportvoetbal.jpg group-title=" group-title="Nederland",Ziggo Sport Voetbal NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4167.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Docu NL" tvg-logo="https://picon-13398.kxcdn.com/ziggsportdocunl.jpg group-title=" group-title="Nederland",Ziggo Sport Docu NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Extra NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportextranl.jpg group-title=" group-title="Nederland",Ziggo Sport Extra NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7008.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf HD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportgolf.jpg group-title=" group-title="Nederland",Ziggo Sport Golf HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4168.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Golf NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportgolf.jpg group-title=" group-title="Nederland",Ziggo Sport Golf NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/27192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Racing HD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportracing.jpg group-title=" group-title="Nederland",Ziggo Sport Racing HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7009.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select FHD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportselect.jpg group-title=" group-title="Nederland",Ziggo Sport Select FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12523.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo Sport Select NL" tvg-logo="https://picon-13398.kxcdn.com/ziggosportselect.jpg group-title=" group-title="Nederland",Ziggo Sport Select NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4166.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Darten HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Darten HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99874.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Event 1 HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Event 1 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99879.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Event 2 HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Event 2 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99880.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Event 3 HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Event 3 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99881.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Formule1 HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Formule1 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99875.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Max HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Max HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99877.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Sport 1 HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Sport 1 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99878.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viaplay Voetbal HD NL" tvg-logo="https://picon-13398.kxcdn.com/viaplayse.jpg group-title=" group-title="Nederland",Viaplay Voetbal HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99876.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science [Multi-sub] NL" tvg-logo="https://picon-13398.kxcdn.com/discoverysciencehd.jpg group-title=" group-title="Nederland",Discovery Science [Multi-sub] NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/72673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX FHD NL" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg group-title=" group-title="Nederland",FOX FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17215.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NL" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg group-title=" group-title="Nederland",FOX NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4134.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen NL" tvg-logo="https://picon-13398.kxcdn.com/24kitchen.jpg group-title=" group-title="Nederland",24 Kitchen NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11246.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet NL" tvg-logo="https://picon-13398.kxcdn.com/animalplanet.jpg group-title=" group-title="Nederland",Animal Planet NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11244.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC First FHD NL" tvg-logo="https://picon-13398.kxcdn.com/bbcfirst.jpg group-title=" group-title="Nederland",BBC First FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/37829.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang NL" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg group-title=" group-title="Nederland",Boomerang NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11242.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network NL" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetworkhd.jpg group-title=" group-title="Nederland",Cartoon Network NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17191.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central Extra NL" tvg-logo="https://picon-13398.kxcdn.com/comedycentralextra.jpg group-title=" group-title="Nederland",Comedy Central Extra NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11239.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central FHD NL" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg group-title=" group-title="Nederland",Comedy Central FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4137.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime & Investigation NL" tvg-logo="https://picon-13398.kxcdn.com/crimeandinvest.jpg group-title=" group-title="Nederland",Crime & Investigation NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11238.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DanceTrippin FHD NL" tvg-logo="https://picon-13398.kxcdn.com/dancetrippinnl.jpg group-title=" group-title="Nederland",DanceTrippin FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/34794.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel HD NL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg group-title=" group-title="Nederland",Discovery Channel HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel NL" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg group-title=" group-title="Nederland",Discovery Channel NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4176.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel NL" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg group-title=" group-title="Nederland",Disney Channel NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11237.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DocuBox NL" tvg-logo="https://picon-13398.kxcdn.com/docubox.jpg group-title=" group-title="Nederland",DocuBox NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/23949.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck TV NL" tvg-logo="https://picon-13398.kxcdn.com/ducktv.jpg group-title=" group-title="Nederland",Duck TV NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/22981.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HD NL" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg group-title=" group-title="Nederland",E! HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17193.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD NL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg group-title=" group-title="Nederland",Eurosport 1 FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12532.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD NL" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg group-title=" group-title="Nederland",Eurosport 1 HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11235.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 NL" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg group-title=" group-title="Nederland",Eurosport 2 NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17195.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Action HD NL" tvg-logo="https://picon-13398.kxcdn.com/film1action.jpg group-title=" group-title="Nederland",Film 1 Action HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17207.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Action NL" tvg-logo="https://picon-13398.kxcdn.com/film1action.jpg group-title=" group-title="Nederland",Film 1 Action NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4159.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Drama HD NL" tvg-logo="https://picon-13398.kxcdn.com/film1drama.jpg group-title=" group-title="Nederland",Film 1 Drama HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17208.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Drama NL" tvg-logo="https://picon-13398.kxcdn.com/film1drama.jpg group-title=" group-title="Nederland",Film 1 Drama NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11232.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Family HD NL" tvg-logo="https://picon-13398.kxcdn.com/film1family.jpg group-title=" group-title="Nederland",Film 1 Family HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17209.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Family NL" tvg-logo="https://picon-13398.kxcdn.com/film1family.jpg group-title=" group-title="Nederland",Film 1 Family NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4160.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Premiere HD NL" tvg-logo="https://picon-13398.kxcdn.com/film1premiere.jpg group-title=" group-title="Nederland",Film 1 Premiere HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12531.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film 1 Premiere NL" tvg-logo="https://picon-13398.kxcdn.com/film1premiere.jpg group-title=" group-title="Nederland",Film 1 Premiere NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4162.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Europe INT FHD NL" tvg-logo="https://picon-13398.kxcdn.com/filmeurope.jpg group-title=" group-title="Nederland",Film Europe INT FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/23967.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History NL" tvg-logo="https://picon-13398.kxcdn.com/history.jpg group-title=" group-title="Nederland",History NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11230.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery NL" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscovery.jpg group-title=" group-title="Nederland",Investigation Discovery NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11229.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 90s NL" tvg-logo="https://picon-13398.kxcdn.com/mtv90sus.jpg group-title=" group-title="Nederland",MTV 90s NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/34796.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits NL" tvg-logo="https://picon-13398.kxcdn.com/mtvhits.jpg group-title=" group-title="Nederland",MTV Hits NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4136.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live FHD NL" tvg-logo="https://picon-13398.kxcdn.com/mtvlivehd.jpg group-title=" group-title="Nederland",MTV Live FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/34792.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV NL" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg group-title=" group-title="Nederland",MTV NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17197.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO Nieuws NL" tvg-logo="https://picon-13398.kxcdn.com/nponieuwsnl.jpg group-title=" group-title="Nederland",NPO Nieuws NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/29500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO Politiek NL" tvg-logo="https://picon-13398.kxcdn.com/npopolitiek.jpg group-title=" group-title="Nederland",NPO Politiek NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12491.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic FHD NL" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg group-title=" group-title="Nederland",National Geographic FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4140.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild FHD NL" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg group-title=" group-title="Nederland",National Geographic Wild FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17224.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild NL" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg group-title=" group-title="Nederland",National Geographic Wild NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12499.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr. NL" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg group-title=" group-title="Nederland",Nick Jr. NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11223.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NickMusic NL" tvg-logo="https://picon-13398.kxcdn.com/nickmusicnl.jpg group-title=" group-title="Nederland",NickMusic NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/29501.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NickToons NL" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg group-title=" group-title="Nederland",NickToons NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17199.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon NL" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg group-title=" group-title="Nederland",Nickelodeon NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/2461.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel HD NL" tvg-logo="https://picon-13398.kxcdn.com/outdoorchannelhd.jpg group-title=" group-title="Nederland",Outdoor Channel HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17200.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Crime NL" tvg-logo="https://picon-13398.kxcdn.com/rtlcrime.jpg group-title=" group-title="Nederland",RTL Crime NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11209.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Lounge HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtllounge.jpg group-title=" group-title="Nederland",RTL Lounge HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11208.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Telekids mini's HD NL" tvg-logo="https://picon-13398.kxcdn.com/rtltelekidsnl.jpg group-title=" group-title="Nederland",RTL Telekids mini's HD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/27545.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL Z NL" tvg-logo="https://picon-13398.kxcdn.com/rtlz.jpg group-title=" group-title="Nederland",RTL Z NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11206.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shorts TV FHD NL" tvg-logo="https://picon-13398.kxcdn.com/shortstvnl.jpg group-title=" group-title="Nederland",Shorts TV FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/34795.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike NL" tvg-logo="https://picon-13398.kxcdn.com/spike.jpg group-title=" group-title="Nederland",Spike NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/17201.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC NL" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg group-title=" group-title="Nederland",TLC NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XITE FHD NL" tvg-logo="https://picon-13398.kxcdn.com/xitenl.jpg group-title=" group-title="Nederland",XITE FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/34791.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ziggo TV FHD NL" tvg-logo="https://picon-13398.kxcdn.com/ziggonl.jpg group-title=" group-title="Nederland",Ziggo TV FHD NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12490.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio 538 NL" tvg-logo="https://picon-13398.kxcdn.com/tv538.jpg group-title=" group-title="Nederland",Radio 538 NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16979.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONS NL" tvg-logo="https://picon-13398.kxcdn.com/ons.jpg group-title=" group-title="Nederland",ONS NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Brabant NL" tvg-logo="https://picon-13398.kxcdn.com/omroepbrabant.jpg group-title=" group-title="Nederland",Omroep Brabant NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11216.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Gelderland NL" tvg-logo="https://picon-13398.kxcdn.com/omroepgelderland.jpg group-title=" group-title="Nederland",Omroep Gelderland NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11214.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Zeeland NL" tvg-logo="https://picon-13398.kxcdn.com/omroepzeeland.jpg group-title=" group-title="Nederland",Omroep Zeeland NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11212.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Drenthe NL" tvg-logo="https://picon-13398.kxcdn.com/rtvdrenthe.jpg group-title=" group-title="Nederland",RTV Drenthe NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12489.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Noord NL" tvg-logo="https://picon-13398.kxcdn.com/rtvnoord.jpg group-title=" group-title="Nederland",RTV Noord NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12487.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Oost NL" tvg-logo="https://picon-13398.kxcdn.com/rtvoost.jpg group-title=" group-title="Nederland",RTV Oost NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11203.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Oranje NL" tvg-logo="https://picon-13398.kxcdn.com/tvoranjenl.jpg group-title=" group-title="Nederland",TV Oranje NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/18395.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Rijnmond NL" tvg-logo="https://picon-13398.kxcdn.com/tvrijnmondnl.jpg group-title=" group-title="Nederland",TV Rijnmond NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12486.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT 5 NL" tvg-logo="https://picon-13398.kxcdn.com/at5.jpg group-title=" group-title="Nederland",AT 5 NL
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11243.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg group-title=" group-title="UK",BT Sport 1 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14657.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1hd.jpg group-title=" group-title="UK",BT Sport 1 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1991.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 UK" tvg-logo="https://picon-13398.kxcdn.com/btsport1.jpg group-title=" group-title="UK",BT Sport 1 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3586.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg group-title=" group-title="UK",BT Sport 2 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14658.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport2hd.jpg group-title=" group-title="UK",BT Sport 2 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1992.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2 UK" tvg-logo="https://picon-13398.kxcdn.com/btsport2.jpg group-title=" group-title="UK",BT Sport 2 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3588.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg group-title=" group-title="UK",BT Sport 3 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14659.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 HD UK" tvg-logo="https://picon-13398.kxcdn.com/btsport3hd.jpg group-title=" group-title="UK",BT Sport 3 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14903.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3 UK" tvg-logo="https://picon-13398.kxcdn.com/btsport3.jpg group-title=" group-title="UK",BT Sport 3 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1965.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Box Office FHD (Live During Events Only)" tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg group-title=" group-title="UK",BT Sport Box Office FHD (Live During Events Only)
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/23754.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Box Office HD" tvg-logo="https://picon-13398.kxcdn.com/btsportboxofficeuk.jpg group-title=" group-title="UK",BT Sport Box Office HD
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/23755.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN FHD UK" tvg-logo="https://picon-13398.kxcdn.com/btsportespnhd.jpg group-title=" group-title="UK",BT Sport ESPN FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1980.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN UK" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg group-title=" group-title="UK",BT Sport ESPN UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/2673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 1 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra1.jpg group-title=" group-title="UK",BT Sport Extra 1 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14778.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 2 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra2.jpg group-title=" group-title="UK",BT Sport Extra 2 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14809.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 3 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra3.jpg group-title=" group-title="UK",BT Sport Extra 3 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14808.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 4 UK" tvg-logo="https://picon-13398.kxcdn.com/btsportextra4.jpg group-title=" group-title="UK",BT Sport Extra 4 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 5 UK" tvg-logo="group-title=" group-title="UK",BT Sport Extra 5 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/91874.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 6 UK" tvg-logo="group-title=" group-title="UK",BT Sport Extra 6 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/91875.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg group-title=" group-title="UK",Eurosport 1 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/13091.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg group-title=" group-title="UK",Eurosport 1 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3590.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg group-title=" group-title="UK",Eurosport 2 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/13092.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg group-title=" group-title="UK",Eurosport 2 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3591.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 3 HD UK" tvg-logo="group-title=" group-title="UK",Eurosport 3 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99328.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 4 HD UK" tvg-logo="group-title=" group-title="UK",Eurosport 4 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99329.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 4K UK" tvg-logo="https://picon-13398.kxcdn.com/eurosport4kru.jpg group-title=" group-title="UK",Eurosport 4K UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/87132.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 5 HD UK" tvg-logo="group-title=" group-title="UK",Eurosport 5 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99330.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV FHD UK" tvg-logo="https://picon-13398.kxcdn.com/itvhd.jpg group-title=" group-title="UK",ITV FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1995.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 2 HD UK" tvg-logo="https://picon-13398.kxcdn.com/itv2hd.jpg group-title=" group-title="UK",ITV 2 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/18899.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 3 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/itv3hd.jpg group-title=" group-title="UK",ITV 3 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14292.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 3 HD UK" tvg-logo="https://picon-13398.kxcdn.com/itv3hd.jpg group-title=" group-title="UK",ITV 3 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14738.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 4 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/itv4hd.jpg group-title=" group-title="UK",ITV 4 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/12346.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV 4 HD UK" tvg-logo="https://picon-13398.kxcdn.com/itv4hd.jpg group-title=" group-title="UK",ITV 4 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3583.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV Be HD UK" tvg-logo="https://picon-13398.kxcdn.com/itvbehd.jpg group-title=" group-title="UK",ITV Be HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16723.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg group-title=" group-title="UK",Sky Sports Arena FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16969.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg group-title=" group-title="UK",Sky Sports Arena HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16968.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsboxoffice-clivebesle.jpg group-title=" group-title="UK",Sky Sports Box Office (Live During Events Only) UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14756.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg group-title=" group-title="UK",Sky Sports Cricket FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14652.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg group-title=" group-title="UK",Sky Sports Cricket HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/5601.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket UK" tvg-logo="https://picon-13398.kxcdn.com/skysportscricketuk.jpg group-title=" group-title="UK",Sky Sports Cricket UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14750.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1 FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg group-title=" group-title="UK",Sky Sports F1 FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14656.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg group-title=" group-title="UK",Sky Sports F1 HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3603.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1 UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1.jpg group-title=" group-title="UK",Sky Sports F1 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14739.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg group-title=" group-title="UK",Sky Sports Football FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/16970.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsfootballuk.jpg group-title=" group-title="UK",Sky Sports Football HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/20024.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg group-title=" group-title="UK",Sky Sports Golf FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14654.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg group-title=" group-title="UK",Sky Sports Golf HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsgolfuk.jpg group-title=" group-title="UK",Sky Sports Golf UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14744.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg group-title=" group-title="UK",Sky Sports Main Event FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14651.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg group-title=" group-title="UK",Sky Sports Main Event HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/5600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg group-title=" group-title="UK",Sky Sports Main Event UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14753.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg group-title=" group-title="UK",Sky Sports Mix FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14902.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg group-title=" group-title="UK",Sky Sports Mix UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14926.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg group-title=" group-title="UK",Sky Sports NFL FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14653.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports NFL HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg group-title=" group-title="UK",Sky Sports NFL HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3598.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports NFL UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnfluk.jpg group-title=" group-title="UK",Sky Sports NFL UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14747.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports News HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg group-title=" group-title="UK",Sky Sports News HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1954.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports News UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsnewshqhd.jpg group-title=" group-title="UK",Sky Sports News UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/94854.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg group-title=" group-title="UK",Sky Sports Premier League FHD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14655.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg group-title=" group-title="UK",Sky Sports Premier League HD UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/4458.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg group-title=" group-title="UK",Sky Sports Premier League UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14742.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Racing UK" tvg-logo="https://picon-13398.kxcdn.com/skysportsracinguk.jpg group-title=" group-title="UK",Sky Sports Racing UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/1997.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 1 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 1 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99862.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 10 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 10 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99871.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 2 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 2 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99863.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 3 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 3 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99864.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 4 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 4 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99865.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 5 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 5 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99866.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 6 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 6 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99867.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 7 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 7 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99868.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 8 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 8 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99869.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Red Button 9 UK" tvg-logo="group-title=" group-title="UK",Sky Sports Red Button 9 UK
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/99870.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg group-title=" group-title="Duitsland",Sky Bundesliga 1 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14550.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 1 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7338.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 1 HD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/3436.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg group-title=" group-title="Duitsland",Sky Bundesliga 2 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14551.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 2 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7339.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3.jpg group-title=" group-title="Duitsland",Sky Bundesliga 3 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14552.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 3 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7340.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 4 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4.jpg group-title=" group-title="Duitsland",Sky Bundesliga 4 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14553.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 4 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7341.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5.jpg group-title=" group-title="Duitsland",Sky Bundesliga 5 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14554.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 5 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7342.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6.jpg group-title=" group-title="Duitsland",Sky Bundesliga 6 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14555.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 6 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7343.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7.jpg group-title=" group-title="Duitsland",Sky Bundesliga 7 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/24735.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 7 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7344.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8.jpg group-title=" group-title="Duitsland",Sky Bundesliga 8 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14556.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 8 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7345.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9.jpg group-title=" group-title="Duitsland",Sky Bundesliga 9 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14557.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 9 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7346.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10.jpg group-title=" group-title="Duitsland",Sky Bundesliga 10 DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/14558.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg group-title=" group-title="Duitsland",Sky Bundesliga 10 FHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/7347.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga UHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesligauhdde.jpg group-title=" group-title="Duitsland",Sky Bundesliga UHD DE
+http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/88667.m3u8
