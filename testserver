@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omrop Fryslan NL" tvg-logo="https://picon-13398.kxcdn.com/omropfryslan.jpg group-title=" group-title="Nederland",Omrop Fryslan NL
 http://tv.rapidiptv.xdns.pro:80/live/VGUTjK4WGxAf505/eKLzGi403/11247.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NPO 1 Extra NL" tvg-logo="https://picon-13398.kxcdn.com/npo1extranl.jpg group-title=" group-title="Nederland",NPO 1 Extra NL
